@@ -63,12 +63,12 @@ hi Error                guifg=#a61717 guibg=#e3d2d2
 hi Todo                 guifg=#999988 gui=italic
 
 
-hi Cursor               guifg=NONE guibg=#ffff33
+hi Cursor               guifg=NONE guibg=#ff9900
 hi CursorLine           guifg=NONE guibg=#ffffcc
 hi Directory            guifg=#4183c4
 hi DiffAdd              guifg=#000000 guibg=#ddffdd
 hi DiffDelete           guifg=#000000 guibg=#ffdddd
-hi DiffText             guibg=#666666
+hi DiffText             guibg=#CCCCCC
 hi ErrorMsg             guifg=#a61717 guibg=#e3d2d2 gui=bold
 hi VertSplit            guifg=#666666 guibg=#eaeaea
 hi LineNr		guifg=#666666 guibg=#eaeaea
